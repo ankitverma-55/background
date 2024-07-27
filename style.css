@@ -1,0 +1,31 @@
+
+body{
+    /* align-items: center; */
+    text-align: center;
+}
+span{
+display: block;
+}
+.button{
+    margin-top: 2%;
+   width: 100px;
+   height: 100px;
+ /* border-color: black; */
+   display: inline-block;
+   border: 2px solid black;
+   border-radius: 4px;
+
+}
+#grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
